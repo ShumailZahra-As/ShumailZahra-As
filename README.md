@@ -7,7 +7,7 @@ I'm Shumail Zahra, a passionate frontend developer and a recent BS IT graduate f
 
 💖 I love integrating creativity into my projects and experimenting with design aesthetics and hover effects.
 
-✍️ Besides coding, I'm a lover of poetry — it inspires my creativity and fuels my passion for artistic expression.
+✍️ Beyond coding, poetry is my muse — it inspires my creativity and fuels my passion for artistic expression.
 
 🌱 Currently Exploring
 
