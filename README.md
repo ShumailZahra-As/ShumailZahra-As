@@ -12,7 +12,7 @@ I'm Shumail Zahra, a passionate frontend developer and a recent BS IT graduate f
 🌱 Currently Exploring
 
 Diving deeper into JavaScript to build more dynamic projects.
-Enhancing my skills in chatbot development and exploring frameworks like Botpress.
+Enhancing my skills..
 Collaborating on projects that blend technology and creativity.
 
 💞️ Open to Collaborate On
