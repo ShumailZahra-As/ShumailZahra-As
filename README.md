@@ -1,5 +1,5 @@
 Hi there! 👋 Welcome to my GitHub profile!
-I'm Shumail Zahra, a passionate frontend developer and a recent BS IT graduate from Punjab, Pakistan.
+I'm Shumail Zahra, a passionate frontend developer and  BS IT graduate from Punjab, Pakistan.
 
 👀 About Me
 
@@ -11,7 +11,7 @@ I'm Shumail Zahra, a passionate frontend developer and a recent BS IT graduate f
 
 🌱 Currently Exploring
 
-Diving deeper into JavaScript to build more dynamic projects.
+Currently learning React to build dynamic web applications and REST API integration.
 Enhancing my skills..
 Collaborating on projects that blend technology and creativity.
 
@@ -34,3 +34,6 @@ She/Her
 
 I draw creative inspiration from poetry to design visually appealing interfaces.
 
+ # My Projects
+ 
+TextUtils-React
