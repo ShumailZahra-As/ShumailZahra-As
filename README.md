@@ -36,12 +36,12 @@ I draw creative inspiration from poetry to design visually appealing interfaces.
 
  # My Projects
  
-TextUtils-React
-Clock-Alarm
-Calculator
-Guess-the-number
-Landing---Page
-Portfolio
+TextUtils-React<br>
+Clock-Alarm<br>
+Calculator<br>
+Guess-the-number<br>
+Landing---Page<br>
+Portfolio<br>
 Health-Evaluation-App(Final Year Project)
 
 **See my repositories if you want to know more about my projects!** 
